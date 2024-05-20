@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["ondc", "open", "technology", "forum", "india", "beckn", "delivery", "saas"]
   - label: "Settings"
     name: "settings"
     editor:
